@@ -479,7 +479,6 @@ def main():
         <style>
         .main-header {
             font-size: 3rem;
-            background: linear-gradient(45deg, #FF6B6B, #4ECDC4);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             text-align: center;
@@ -512,7 +511,7 @@ def main():
     """, unsafe_allow_html=True)
     
     # Header aplikasi dengan gradient effect
-    st.markdown('<h1 class="main-header">🚀📚 AI Question Generator</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">📚 AI Question Generator🚀</h1>', unsafe_allow_html=True)
     st.markdown('<h2 align="center">📚 AI Question Generator dari Materi Ajar - Lengkap dengan Jawaban & Analytic</h2>', unsafe_allow_html=True)
     st.markdown("---")
 
