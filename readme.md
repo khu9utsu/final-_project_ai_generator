@@ -50,7 +50,6 @@ Start the server
 
 ```bash
 ├── 📄 app.py                                # Main aplikasi Streamlit
-├── 📄 contoh_materi/python_programing.txt   # File materi
 ├── 📄 requirements.txt                      # Dependencies
 ├── 📄 README.md                             # Dokumentasi
 └── 📄 .gitignore                            # File ignore untuk Git
