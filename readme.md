@@ -53,6 +53,7 @@ Start the server
 ├── 📄 requirements.txt                      # Dependencies
 ├── 📄 README.md                             # Dokumentasi
 └── 📄 .gitignore                            # File ignore untuk Git
+└── 📄 contoh_materi.txt                     # File ignore untuk Git
 ```
 
 ## 📱 Halaman Aplikasi
