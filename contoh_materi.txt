@@ -1,0 +1,27 @@
+Python adalah bahasa pemrograman tingkat tinggi yang diciptakan oleh Guido van Rossum pada tahun 1991. Python mendukung multiple paradigm programming termasuk object-oriented, imperative, dan functional programming.
+
+Variabel dalam Python digunakan untuk menyimpan data. Deklarasi variabel tidak memerlukan keyword khusus:
+x = 5
+nama = "Budi"
+
+Struktur kontrol dasar dalam Python meliputi:
+1. Percabangan: if, elif, else
+2. Perulangan: for, while
+
+Contoh fungsi dalam Python:
+def tambah(a, b):
+    return a + b
+
+List adalah struktur data yang mutable dan ordered:
+buah = ['apel', 'mangga', 'jeruk']
+buah.append('anggur')
+
+Dictionary adalah kumpulan key-value pair:
+mahasiswa = {'nama': 'Andi', 'npm': '123456', 'jurusan': 'Informatika'}
+
+Exception handling menggunakan try-except:
+try:
+    hasil = 10 / 0
+    
+except ZeroDivisionError:
+    print("Tidak bisa dibagi nol")
