@@ -479,7 +479,7 @@ def main():
         <style>
         .main-header {
             font-size: 3rem;
-            background: linear-gradient(45deg, #FF6B6B, #4ECDC4);
+            background: none;
             text-align: center;
             margin-bottom: 2rem;
             font-weight: bold;
