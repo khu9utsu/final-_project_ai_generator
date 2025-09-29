@@ -479,8 +479,7 @@ def main():
         <style>
         .main-header {
             font-size: 3rem;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+            background: linear-gradient(45deg, #FF6B6B, #4ECDC4);
             text-align: center;
             margin-bottom: 2rem;
             font-weight: bold;
